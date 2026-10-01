@@ -1,0 +1,6 @@
+CV PLACEHOLDER
+
+Please put your final English CV PDF in this folder with exactly this filename:
+Berliana-Panca-Dewi-Nurhidayah-CV.pdf
+
+The Download CV buttons in index.html already point to that filename.
